@@ -6,4 +6,4 @@ Color Palettes that I use in my projects. You can use them whithout any credit. 
 [Scary Night](https://github.com/half-real-SCRACX/SCRACX-s-Color-Palettes/tree/main/Scary%20Night)
 
 ![image](https://github.com/half-real-SCRACX/SCRACX-s-Color-Palettes/blob/main/Prism%20Blue/Prism%20Blue.png)
-[Scary Night](https://github.com/half-real-SCRACX/SCRACX-s-Color-Palettes/tree/main/Prism%20Blue)
+[Prism Blue](https://github.com/half-real-SCRACX/SCRACX-s-Color-Palettes/tree/main/Prism%20Blue)
