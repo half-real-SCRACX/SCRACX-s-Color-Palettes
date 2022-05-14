@@ -1,4 +1,4 @@
-# Scracx's Palettes
+# SCRACX's (Color) Palettes
 
 Color Palettes that I use in my projects. You can use them whithout any credit. They're colors, afterall ;)
 
